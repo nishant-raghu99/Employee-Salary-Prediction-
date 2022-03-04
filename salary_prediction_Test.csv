@@ -1,0 +1,6 @@
+Age(yrs),Gender,Qualification,no_of_experience_in_years,Area_of_work,salary_package_per_month
+22,F,B.E,1,programming,
+21,M,B.E,0,predictive analysis,
+30,F,M.E,4,banking sw,
+28,M,M.E,3,Sw testing,
+24,F,M.E,1,cloud server management,

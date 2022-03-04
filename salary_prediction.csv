@@ -1,0 +1,165 @@
+company,Age(yrs),Gender,Qualification,no_of_experience_in_years,Area_of_work,salary_package_per_month
+ABBB,21,M,B.E,0,programming ,30000
+,24,F,M.E,1,predective analysis,50000
+,30,M,M.E,5,cloud server management,120000
+,23,M,B.E,2,programming ,42000
+,21,F,B.E,0,predective analysis,35000
+Oxon,27,M,B.E,4,cloud server management,100000
+,29,M,B.E,5,predective analysis,110000
+,30,M,B.E,7,programming ,85000
+,31,F,B.E,9,predective analysis,200000
+,30,F,B.E,8,programming ,95000
+Bashh,24,M,M.E,1,cloud server management,40000
+,26,M,M.E,3,cloud server management,65000
+,34,F,M.E,10,predective analysis,210000
+,31,F,M.E,7,predective analysis,160000
+,35,F,M.E,11,predective analysis,225000
+palm,36,F,B.E,13,programming ,160000
+,38,F,B.E,15,programming ,180000
+,40,F,B.E,18,predective analysis,320000
+,41,F,B.E,20,predective analysis,350000
+,43,F,B.E,21,cloud server management,500000
+TSC,21,M,B.E,0,programming ,25000
+,22,F,B.E,0,programming ,26000
+,22,F,B.E,1,predective analysis,39000
+,22,F,B.E,0,predective analysis,30000
+,22,F,B.E,1,cloud server management,32000
+Google,21,M,B.E,0,predective analysis,100000
+,25,F,B.E,2,cloud server management,450000
+,24,M,M.E,1,cloud server management,200000
+,29,F,M.E,4,predective analysis,350000
+,35,M,M.E,10,cloud server management,800000
+,42,F,B.E,15,programming ,550000
+MS,26,M,B.E,4,cloud server management,350000
+,27,F,B.E,6,cloud server management,500000
+,31,M,B.E,10,cloud server management,800000
+,28,F,B.E,6,predective analysis,275000
+,21,F,B.E,0,programming ,80000
+E & Y,21,M,B.E,0,predective analysis,45000
+,21,M,B.E,0,predective analysis,45000
+,21,F,B.E,0,predective analysis,45000
+,22,F,B.E,0,programming ,45000
+,22,F,B.E,1,predective analysis,60000
+,24,F,B.E,2,programming ,60000
+,24,M,B.E,3,programming ,75000
+,24,M,B.E,3,programming ,75000
+,25,F,B.E,4,programming ,90000
+,26,F,B.E,4,cloud server management,120000
+,24,M,B.E,3,cloud server management,85000
+,25,F,B.E,4,programming ,80000
+sfy,30,M,M.E,6,cloud server management,90000
+,32,F,M.E,8,cloud server management,120000
+,31,F,M.E,8,cloud server management,120000
+,32,F,M.E,8,cloud server management,150000
+,33,M,M.E,9,cloud server management,200000
+,34,M,M.E,10,predective analysis,500000
+,34,M,M.E,11,predective analysis,550000
+,34,F,M.E,11,predective analysis,600000
+,35,M,M.E,12,predective analysis,800000
+,39,F,M.E,9,programming ,200000
+,40,F,M.E,9,programming ,200000
+,42,F,M.E,16,programming ,400000
+,43,F,M.E,15,programming ,380000
+,41,F,M.E,12,programming ,360000
+,40,M,M.E,14,programming ,380000
+,38,F,M.E,12,programming ,350000
+,36,M,M.E,12,programming ,400000
+,36,F,M.E,12,programming ,360000
+,38,M,M.E,14,programming ,440000
+Gdoor,25,M,B.E,3,banking sw,65000
+,25,M,B.E,4,banking sw,80000
+,25,M,B.E,3,banking sw,70000
+,26,M,B.E,4,banking sw,80000
+,26,F,M.E,2,banking sw,85000
+,27,F,M.E,2,banking sw,85000
+,27,F,M.E,3,banking sw,90000
+,28,F,M.E,4,banking sw,100000
+,29,M,M.E,6,banking sw,150000
+,31,M,B.E,7,banking sw,175000
+,30,F,B.E,6,banking sw,170000
+Zeus,32,M,B.E,10,Sw testing,600000
+,32,M,B.E,10,Sw testing,600000
+,33,M,B.E,11,Sw testing,650000
+,33,M,B.E,11,Sw testing,650000
+,33,M,B.E,11,Sw testing,650000
+,33,M,B.E,12,Sw testing,700000
+,34,F,B.E,13,Sw testing,750000
+,35,F,B.E,14,Sw testing,850000
+,36,F,B.E,15,Sw testing,950000
+,37,F,B.E,16,Sw testing,1000000
+,40,F,B.E,18,Sw testing,1050000
+,41,F,B.E,19,Sw testing,1150000
+,21,M,B.E,0,Sw testing,30000
+,21,F,B.E,0,Sw testing,30000
+,22,F,B.E,0,Sw testing,30000
+,22,M,B.E,0,Sw testing,30000
+,24,M,M.E,1,Sw testing,33000
+,24,M,M.E,1,Sw testing,33000
+,24,M,M.E,1,Sw testing,33000
+,23,M,M.E,0,Sw testing,30000
+,23,M,M.E,0,Sw testing,30000
+,22,M,B.E,1,Sw testing,40000
+,24,M,M.E,0,Sw testing,30000
+,24,F,M.E,1,Sw testing,40000
+Hera,25,M,M.E,1,banking sw,75000
+,26,M,M.E,2,banking sw,95000
+,25,M,M.E,1,banking sw,75000
+,25,M,M.E,1,banking sw,75000
+,25,M,M.E,1,banking sw,75000
+,25,M,M.E,1,banking sw,75000
+,25,F,M.E,1,banking sw,75000
+,26,F,M.E,1,banking sw,75000
+,26,F,M.E,1,banking sw,75000
+,26,F,M.E,1,banking sw,75000
+,26,F,M.E,2,Sw testing,200000
+,26,M,M.E,2,Sw testing,200000
+,26,F,M.E,2,Sw testing,200000
+,27,F,M.E,2,Sw testing,200000
+,27,M,M.E,2,Sw testing,200000
+,26,F,M.E,2,Sw testing,200000
+,27,F,M.E,,Sw testing,200000
+,28,F,M.E,2,Sw testing,200000
+,28,M,M.E,2,Sw testing,200000
+,28,M,M.E,,Sw testing,200000
+,28,M,M.E,,predective analysis,350000
+,29,M,M.E,4,programming ,350000
+,29,M,M.E,4,predective analysis,350000
+,29,M,B.E,6,programming ,250000
+,29,M,B.E,7,cloud server management,900000
+,30,F,B.E,8,cloud server management,1000000
+,30,F,B.E,8,cloud server management,1000000
+,30,M,B.E,1,cloud server management,100000
+,32,M,B.E,8,cloud server management,1000000
+,32,M,B.E,8,cloud server management,1000000
+,32,M,B.E,9,cloud server management,1200000
+,32,M,B.E,10,predective analysis,1000000
+,32,M,B.E,10,predective analysis,1000000
+,31,F,B.E,11,predective analysis,1200000
+,31,F,B.E,11,predective analysis,1200000
+,31,F,B.E,11,predective analysis,1200000
+,31,F,B.E,11,predective analysis,1200000
+,25,F,B.E,3,cloud server management,350000
+Athena,33,M,M.E,8,programming ,300000
+,33,M,M.E,8,programming ,300000
+,34,F,M.E,8,programming ,300000
+,34,F,M.E,9,programming ,350000
+,34,F,M.E,9,programming ,350000
+,35,F,M.E,9,programming ,350000
+,35,M,M.E,10,Sw testing,500000
+,35,M,M.E,11,Sw testing,550000
+,35,F,M.E,12,Sw testing,580000
+,35,M,M.E,12,Sw testing,580000
+,40,M,M.E,16,Sw testing,800000
+,40,M,M.E,16,Sw testing,800000
+,40,M,M.E,16,Sw testing,800000
+,40,M,M.E,16,Sw testing,800000
+,40,F,M.E,16,predective analysis,1000000
+,40,F,B.E,16,predective analysis,1000000
+,41,F,B.E,17,predective analysis,1100000
+,41,F,B.E,19,predective analysis,1400000
+,41,F,B.E,19,predective analysis,1400000
+,41,F,B.E,18,predective analysis,1300000
+,42,F,B.E,18,predective analysis,1900000
+,42,F,B.E,21,cloud server management,2000000
+,42,F,B.E,21,cloud server management,2000000
+,43,F,B.E,21,cloud server management,1900000
